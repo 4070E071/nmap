@@ -1,5 +1,5 @@
 # nmap
-```
+'''
 nmap -O 172.20.164.170
 
 Starting Nmap 7.60 ( https://nmap.org ) at 2018-10-12 02:47 EDT
@@ -19,4 +19,4 @@ Network Distance: 1 hop
 
 OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 2.53 seconds
-```
+'''
