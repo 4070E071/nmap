@@ -20,7 +20,7 @@ Network Distance: 1 hop
 OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 2.53 seconds
 ```
-#nmapscript
+##nmapscript
 ```
 nmap --script smb-vuln-ms08-067.nse -p445 172.20.164.170
 
@@ -49,7 +49,7 @@ Host script results:
 
 Nmap done: 1 IP address (1 host up) scanned in 0.48 seconds
 ```
-#nmap_script
+##nmap_script
 ```
 nmap --script smb-vuln-ms08-067.nse -p445
 ```
