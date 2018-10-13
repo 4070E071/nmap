@@ -49,7 +49,4 @@ Host script results:
 
 Nmap done: 1 IP address (1 host up) scanned in 0.48 seconds
 ```
-##nmap_script
-```
-nmap --script smb-vuln-ms08-067.nse -p445
-```
+#nmap --script smb-vuln-ms08-067.nse -p445
